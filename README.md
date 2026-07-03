@@ -80,7 +80,11 @@ https://admin.tomedes.com/api/v1/get-reviews?page=1
 
 ## 📸 Screenshots
 
-Add screenshots of your application here.
+<img width="1348" height="641" alt="webScreenShort1" src="https://github.com/user-attachments/assets/90cc9c52-9cec-41be-8612-26cdc092f21e" />
+<img width="1330" height="640" alt="webScreenShort2" src="https://github.com/user-attachments/assets/131870c9-8d24-4ca7-9b56-5a74446de8be" />
+<img width="1347" height="628" alt="webScreenShort3" src="https://github.com/user-attachments/assets/19cf42a3-785d-4338-8e46-4e0f3a52653a" />
+
+
 
 ## 🌟 Future Improvements
 
